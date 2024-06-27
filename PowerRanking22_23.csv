@@ -1,0 +1,441 @@
+﻿Year;Country;City;Circuit Name;Driver;PowerRanking Score;PowerRanking Position
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Max Verstappen;9.6;1
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Charles Lecrerc;9;2
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Lando Norris;8.8;3
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Sebastian Vettel;8.6;4
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Esteban Ocon;8.4;5
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;George Russell;7.6;6
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Daniel Ricciardo;7.4;7
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Sergio Perez;7.2;8
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Lance Stroll;7.2;9
+2022;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Fernando Alonso;7;10
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Max Verstappen;9.2;1
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Charles Leclerc;8.8;2
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Yuki Tsunoda;8.6;3
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;George Russell;8.4;4
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Fernando Alonso;7.6;5
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Lando Norris;7.4;6
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Sergio Perez;7.2;7
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Oscar Piastri;7;8
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Alex Albon;6.6;9
+2023;United Arab Emirates;Abu Dhabi;Yas Marina Circuit;Pierre Gasly;6.4;10
+2022;United States;Austin;Circuit of the Americas;Sebastian Vettel;9.2;1
+2022;United States;Austin;Circuit of the Americas;Lewis Hamilton;9.2;2
+2022;United States;Austin;Circuit of the Americas;Max Verstappen;8.8;3
+2022;United States;Austin;Circuit of the Americas;Charles Lecrerc;8.6;4
+2022;United States;Austin;Circuit of the Americas;Lando Norris;8.4;5
+2022;United States;Austin;Circuit of the Americas;Fernando Alonso;8.4;6
+2022;United States;Austin;Circuit of the Americas;Kevin Magnussen;7.8;7
+2022;United States;Austin;Circuit of the Americas;Alex Albon;7.6;8
+2022;United States;Austin;Circuit of the Americas;Sergio Perez;7.4;9
+2022;United States;Austin;Circuit of the Americas;Carlos Sainz;7;10
+2023;United States;Austin;Circuit of The Americas;Lewis Hamilton;9.6;1
+2023;United States;Austin;Circuit of The Americas;Max Verstappen;9.4;2
+2023;United States;Austin;Circuit of The Americas;Lando Norris;8.6;3
+2023;United States;Austin;Circuit of The Americas;Yuki Tsunoda;8.4;4
+2023;United States;Austin;Circuit of The Americas;Pierre Gasly;8;5
+2023;United States;Austin;Circuit of The Americas;Charles Leclerc;7.6;6
+2023;United States;Austin;Circuit of The Americas;Alex Albon;7.4;7
+2023;United States;Austin;Circuit of The Americas;Carlos Sainz;7.2;8
+2023;United States;Austin;Circuit of The Americas;Lance Stroll;7.2;9
+2023;United States;Austin;Circuit of The Americas;Fernando Alonso;7;10
+2022;Azerbaijan;Baku;Baku City Circuit;Pierre Gasly;9;1
+2022;Azerbaijan;Baku;Baku City Circuit;Max Verstappen;8.8;2
+2022;Azerbaijan;Baku;Baku City Circuit;Charles Lecrerc;8.6;3
+2022;Azerbaijan;Baku;Baku City Circuit;George Russell;8.6;4
+2022;Azerbaijan;Baku;Baku City Circuit;Lewis Hamilton;8.2;5
+2022;Azerbaijan;Baku;Baku City Circuit;Yuki Tsunoda;8;6
+2022;Azerbaijan;Baku;Baku City Circuit;Sebastian Vettel;8;7
+2022;Azerbaijan;Baku;Baku City Circuit;Sergio Perez;7.8;8
+2022;Azerbaijan;Baku;Baku City Circuit;Fernando Alonso;7.8;9
+2022;Azerbaijan;Baku;Baku City Circuit;Zhou Guanyu;7.6;10
+2023;Azerbaijan;Baku;Baku City Circuit;Sergio Perez;9.6;1
+2023;Azerbaijan;Baku;Baku City Circuit;Charles Leclerc;9.4;2
+2023;Azerbaijan;Baku;Baku City Circuit;Fernando Alonso;9.2;3
+2023;Azerbaijan;Baku;Baku City Circuit;Lewis Hamilton;8.4;4
+2023;Azerbaijan;Baku;Baku City Circuit;Yuki Tsunoda;8;5
+2023;Azerbaijan;Baku;Baku City Circuit;Max Verstappen;7.8;6
+2023;Azerbaijan;Baku;Baku City Circuit;Lando Norris;7.6;7
+2023;Azerbaijan;Baku;Baku City Circuit;Alex Albon;7.2;8
+2023;Azerbaijan;Baku;Baku City Circuit;George Russell;7.2;9
+2023;Azerbaijan;Baku;Baku City Circuit;Lance Stroll;7;10
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;George Russell;9.4;1
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Charles Lecrerc;9.2;2
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Lewis Hamilton;8.8;3
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Max Verstappen;8.6;4
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Sergio Perez;8.4;5
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Lando Norris;8.4;6
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Esteban Ocon;8.4;7
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Valtteri Bottas;8.2;8
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Fernando Alonso;7.6;9
+2022;Spain;Barcelona;Circuit de Barcelona-Catalunya;Yuki Tsunoda;7.4;10
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Max Verstappen;9.6;1
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Lewis Hamilton;9.2;2
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Zhou Guanyu;8.4;3
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Esteban Ocon;7.6;4
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Esteban Ocon;7.6;5
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Yuki Tsunoda;7.4;6
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Lance Stroll;7.4;7
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Carlos Sainz;7.2;8
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Sergio Perez;6.6;9
+2023;Spain;Barcelona;Circuit de Barcelona-Catalunya;Pierre Gasly;6.4;10
+2022;Hungary;Budapest;Hungaroring;Max Verstappen;9;1
+2022;Hungary;Budapest;Hungaroring;Lewis Hamilton;9;2
+2022;Hungary;Budapest;Hungaroring;George Russell;8.8;3
+2022;Hungary;Budapest;Hungaroring;Lando Norris;8.4;4
+2022;Hungary;Budapest;Hungaroring;Fernando Alonso;7.8;5
+2022;Hungary;Budapest;Hungaroring;Carlos Sainz;7.4;6
+2022;Hungary;Budapest;Hungaroring;Charles Lecrerc;7.2;7
+2022;Hungary;Budapest;Hungaroring;Esteban Ocon;7;8
+2022;Hungary;Budapest;Hungaroring;Sebastian Vettel;7;9
+2022;Hungary;Budapest;Hungaroring;Pierre Gasly;6.8;10
+2023;Hungary;Budapest;Hungaroring;Max Verstappen;9.6;1
+2023;Hungary;Budapest;Hungaroring;Lando Norris;9.4;2
+2023;Hungary;Budapest;Hungaroring;Oscar Piastri;8.2;3
+2023;Hungary;Budapest;Hungaroring;Lewis Hamilton;8;4
+2023;Hungary;Budapest;Hungaroring;Alex Albon;8;5
+2023;Hungary;Budapest;Hungaroring;George Russell;7.8;6
+2023;Hungary;Budapest;Hungaroring;Daniel Ricciardo;7.6;7
+2023;Hungary;Budapest;Hungaroring;Fernando Alonso;7.2;8
+2023;Hungary;Budapest;Hungaroring;Charles Leclerc;7;9
+2023;Hungary;Budapest;Hungaroring;Daniel Ricciardo;6.8;10
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Max Verstappen;10;1
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Lando Norris;9.4;2
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;George Russell;8.6;3
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Valtteri Bottas;8.6;4
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Sergio Perez;8.4;5
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Yuki Tsunoda;8.4;6
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Alex Albon;8.2;7
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Kevin Magnussen;8;8
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Sebastian Vettel;7.8;9
+2022;Italy;Imola;Autodromo Enzo e Dino Ferrari;Lance Stroll;6.8;10
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Charles Lecrerc;9;1
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Max Verstappen;8.8;2
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;George Russell;8.4;3
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Sergio Perez;8.2;4
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Lando Norris;8.2;5
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Carlos Sainz;8;6
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Fernando Alonso;8;7
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Esteban Ocon;8;8
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Kevin Magnussen;7.8;9
+2022;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Daniel Ricciardo;7.4;10
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Sergio Perez;9.2;1
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;George Russell;9;3
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Fernando Alonso;9.1;2
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Max Verstappen;8.6;4
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Lewis Hamilton;8.4;5
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Yuki Tsunoda;8;6
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Esteban Ocon;8;7
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Kevin Magnussen;8;8
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Charles Leclerc;7.4;9
+2023;Saudi Arabia;Jeddah;Jeddah Corniche Circuit;Lance Stroll;7;10
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Charles Leclerc;9;1
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Max Verstappen;8.6;2
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Esteban Ocon;7.8;3
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Oscar Piastri;7.6;4
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Sergio Perez;7.4;5
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Carlos Sainz;7.4;6
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Lance Stroll;7.2;7
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Pierre Gasly;7;8
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Alex Albon;7;9
+2023;United States;Las Vegas;Las Vegas Strip Circuit;Logan Sargeant;6.8;10
+2022;France;Le Castellet;Circuit Paul Ricard;Carlos Sainz;8.8;1
+2022;France;Le Castellet;Circuit Paul Ricard;Lewis Hamilton;8.8;2
+2022;France;Le Castellet;Circuit Paul Ricard;Max Verstappen;8.6;3
+2022;France;Le Castellet;Circuit Paul Ricard;George Russell;8.2;4
+2022;France;Le Castellet;Circuit Paul Ricard;Fernando Alonso;8.2;5
+2022;France;Le Castellet;Circuit Paul Ricard;Lando Norris;7.8;6
+2022;France;Le Castellet;Circuit Paul Ricard;Lance Stroll;7.6;7
+2022;France;Le Castellet;Circuit Paul Ricard;Esteban Ocon;7.4;8
+2022;France;Le Castellet;Circuit Paul Ricard;Alex Albon;7.2;9
+2022;France;Le Castellet;Circuit Paul Ricard;Sebastian Vettel;7;10
+2023;Qatar;Lusail;Lusail International Circuit;Max Verstappen;9.6;1
+2023;Qatar;Lusail;Lusail International Circuit;Oscar Piastri;9.2;2
+2023;Qatar;Lusail;Lusail International Circuit;Lando Norris;8.4;3
+2023;Qatar;Lusail;Lusail International Circuit;Valtteri Bottas;8.2;4
+2023;Qatar;Lusail;Lusail International Circuit;Esteban Ocon;8;5
+2023;Qatar;Lusail;Lusail International Circuit;George Russell;7.8;6
+2023;Qatar;Lusail;Lusail International Circuit;Zhou Guanyu;7.2;7
+2023;Qatar;Lusail;Lusail International Circuit;Alex Albon;7.2;8
+2023;Qatar;Lusail;Lusail International Circuit;Charles Leclerc;7;9
+2023;Qatar;Lusail;Lusail International Circuit;Fernando Alonso;6.8;10
+2022;Australia;Melbourne;Albert Park Circuit;Charles Lecrerc;10;1
+2022;Australia;Melbourne;Albert Park Circuit;Alex Albon;9.4;2
+2022;Australia;Melbourne;Albert Park Circuit;Lando Norris;8.6;3
+2022;Australia;Melbourne;Albert Park Circuit;George Russell;8.4;4
+2022;Australia;Melbourne;Albert Park Circuit;Max Verstappen;8.2;5
+2022;Australia;Melbourne;Albert Park Circuit;Sergio Perez;8.2;6
+2022;Australia;Melbourne;Albert Park Circuit;Lewis Hamilton;8.2;7
+2022;Australia;Melbourne;Albert Park Circuit;Fernando Alonso;8;8
+2022;Australia;Melbourne;Albert Park Circuit;Daniel Ricciardo;7.8;9
+2022;Australia;Melbourne;Albert Park Circuit;Valtteri Bottas;7.6;10
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;George Russell;9;1
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Nico Hulkenberg;8.8;2
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Max Verstappen;8.6;3
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Lewis Hamilton;8.4;4
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Lando Norris;8;5
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Yuki Tsunoda;8;6
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Sergio Perez;8;7
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Oscar Piastri;7.8;8
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Pierre Gasly;7.4;9
+2023;Australia;Melbourne;Melbourne Grand Prix Circuit;Zhou Guanyu;7.4;10
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Max Verstappen;9.5;1
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Lewis Hamilton;9;2
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Daniel Ricciardo;8.5;3
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Valtteri Bottas;8.3;4
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;George Russell;8;5
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Fernando Alonso;8;6
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Sergio Perez;7.8;7
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Alex Albon;7.7;8
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Lando Norris;7.5;9
+2022;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Esteban Ocon;7.4;10
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Max Verstappen;9.2;1
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Lewis Hamilton;9.2;2
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Daniel Ricciardo;8.8;3
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Charles Leclerc;8.6;4
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Lando Norris;8.6;5
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Alex Albon;8.4;6
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Carlos Sainz;7.4;7
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Nico Hulkenberg;7.2;8
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Oscar Piastri;7;9
+2023;Mexico;Mexico City;Autodromo Hermanos Rodriguez;Esteban Ocon;7;10
+2022;United States;Miami;Miami International Autodrome;Max Verstappen;9.2;1
+2022;United States;Miami;Miami International Autodrome;Alex Albon;9;2
+2022;United States;Miami;Miami International Autodrome;Charles Lecrerc;8.8;3
+2022;United States;Miami;Miami International Autodrome;Lewis Hamilton;7.8;4
+2022;United States;Miami;Miami International Autodrome;Esteban Ocon;7.6;5
+2022;United States;Miami;Miami International Autodrome;Carlos Sainz;7.4;6
+2022;United States;Miami;Miami International Autodrome;Valtteri Bottas;7.4;7
+2022;United States;Miami;Miami International Autodrome;George Russell;7.2;8
+2022;United States;Miami;Miami International Autodrome;Sergio Perez;7;9
+2022;United States;Miami;Miami International Autodrome;Fernando Alonso;6.8;10
+2023;United States;Miami;Miami International Autodrome;Fernando Alonso;9.6;1
+2023;United States;Miami;Miami International Autodrome;Max Verstappen;9;2
+2023;United States;Miami;Miami International Autodrome;George Russell;8.8;3
+2023;United States;Miami;Miami International Autodrome;Kevin Magnussen;8.2;4
+2023;United States;Miami;Miami International Autodrome;Sergio Perez;7.8;5
+2023;United States;Miami;Miami International Autodrome;Pierre Gasly;7.8;6
+2023;United States;Miami;Miami International Autodrome;Lewis Hamilton;7.6;7
+2023;United States;Miami;Miami International Autodrome;Yuki Tsunoda;7.6;8
+2023;United States;Miami;Miami International Autodrome;Carlos Sainz;7.2;9
+2023;United States;Miami;Miami International Autodrome;Nico Hulkenberg;7;10
+2023;Monaco;Monte Carlo;Circuit de Monaco;Lewis Hamilton;9.8;1
+2023;Monaco;Monte Carlo;Circuit de Monaco;Esteban Ocon;9.8;2
+2023;Monaco;Monte Carlo;Circuit de Monaco;Fernando Alonso;9.2;3
+2023;Monaco;Monte Carlo;Circuit de Monaco;Lewis Hamilton;8.4;4
+2023;Monaco;Monte Carlo;Circuit de Monaco;Lando Norris;8;5
+2023;Monaco;Monte Carlo;Circuit de Monaco;Oscar Piastri;7.8;6
+2023;Monaco;Monte Carlo;Circuit de Monaco;Pierre Gasly;7.4;7
+2023;Monaco;Monte Carlo;Circuit de Monaco;Yuki Tsunoda;7.2;8
+2023;Monaco;Monte Carlo;Circuit de Monaco;George Russell;7.2;9
+2023;Monaco;Monte Carlo;Circuit de Monaco;Charles Leclerc;6.6;10
+2022;Monaco;Monte Carlo;Circuit de Monaco;Sergio Perez;9.2;1
+2022;Monaco;Monte Carlo;Circuit de Monaco;Charles Lecrerc;9;2
+2022;Monaco;Monte Carlo;Circuit de Monaco;Lando Norris;8.6;3
+2022;Monaco;Monte Carlo;Circuit de Monaco;Carlos Sainz;8.4;4
+2022;Monaco;Monte Carlo;Circuit de Monaco;George Russell;8.4;5
+2022;Monaco;Monte Carlo;Circuit de Monaco;Max Verstappen;7.6;6
+2022;Monaco;Monte Carlo;Circuit de Monaco;Fernando Alonso;7.6;7
+2022;Monaco;Monte Carlo;Circuit de Monaco;Sebastian Vettel;6.6;8
+2022;Monaco;Monte Carlo;Circuit de Monaco;Pierre Gasly;6.6;9
+2022;Monaco;Monte Carlo;Circuit de Monaco;Valtteri Bottas;6.4;10
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Max Verstappen;9.6;1
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Lewis Hamilton;8.6;2
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Carlos Sainz;8.4;3
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Zhou Guanyu;8;4
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;George Russell;7.8;5
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Fernando Alonso;7.8;6
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Valtteri Bottas;7.6;7
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Charles Lecrerc;7.4;8
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Esteban Ocon;7.4;9
+2022;Canada;Montreal;Circuit Gilles-Villeneuve;Kevin Magnussen;7.2;10
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Alex Albon;10;1
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Max Verstappen;9.6;2
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Fernando Alonso;9;3
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Lewis Hamilton;8.8;4
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Esteban Ocon;7.6;5
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Charles Leclerc;7.4;6
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Carlos Sainz;7.2;7
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Valtteri Bottas;7;8
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Lando Norris;6.8;9
+2023;Canada;Montreal;Circuit Gilles-Villeneuve;Oscar Piastri;6.2;10
+2022;Italy;Monza;Autodromo Nazionale Monza;Nyck De Vries;9.8;1
+2022;Italy;Monza;Autodromo Nazionale Monza;Max Verstappen;9.2;2
+2022;Italy;Monza;Autodromo Nazionale Monza;Charles Lecrerc;8.8;3
+2022;Italy;Monza;Autodromo Nazionale Monza;Carlos Sainz;8.4;4
+2022;Italy;Monza;Autodromo Nazionale Monza;George Russell;8.2;5
+2022;Italy;Monza;Autodromo Nazionale Monza;Lando Norris;8.2;6
+2022;Italy;Monza;Autodromo Nazionale Monza;Pierre Gasly;7.8;7
+2022;Italy;Monza;Autodromo Nazionale Monza;Lewis Hamilton;7.6;8
+2022;Italy;Monza;Autodromo Nazionale Monza;Zhou Guanyu;7.6;9
+2022;Italy;Monza;Autodromo Nazionale Monza;Daniel Ricciardo;7.4;10
+2023;Italy;Monza;Autodromo Nazionale Monza;Carlos Sainz;9.4;1
+2023;Italy;Monza;Autodromo Nazionale Monza;Max Verstappen;9.4;2
+2023;Italy;Monza;Autodromo Nazionale Monza;Alex Albon;9;3
+2023;Italy;Monza;Autodromo Nazionale Monza;George Russell;8.2;4
+2023;Italy;Monza;Autodromo Nazionale Monza;Sergio Perez;7.8;5
+2023;Italy;Monza;Autodromo Nazionale Monza;Liam Lawson;7.8;6
+2023;Italy;Monza;Autodromo Nazionale Monza;Charles Leclerc;7.6;7
+2023;Italy;Monza;Autodromo Nazionale Monza;Lando Norris;7.4;8
+2023;Italy;Monza;Autodromo Nazionale Monza;Valtteri Bottas;7.4;9
+2023;Italy;Monza;Autodromo Nazionale Monza;Lewis Hamilton;7.2;10
+2022;Bahrain;Sakhir;Bahrain International Circuit;Charles Lecrerc;10;1
+2022;Bahrain;Sakhir;Bahrain International Circuit;Kevin Magnussen;9.6;2
+2022;Bahrain;Sakhir;Bahrain International Circuit;Max Verstappen;9.2;3
+2022;Bahrain;Sakhir;Bahrain International Circuit;Lewis Hamilton;8.6;4
+2022;Bahrain;Sakhir;Bahrain International Circuit;Zhou Guanyu;8.2;5
+2022;Bahrain;Sakhir;Bahrain International Circuit;Valtteri Bottas;7.8;6
+2022;Bahrain;Sakhir;Bahrain International Circuit;Alex Albon;7.8;7
+2022;Bahrain;Sakhir;Bahrain International Circuit;Carlos Sainz;7.6;8
+2022;Bahrain;Sakhir;Bahrain International Circuit;George Russell;7.6;9
+2022;Bahrain;Sakhir;Bahrain International Circuit;Esteban Ocon;7.6;10
+2023;Bahrain;Sakhir;Bahrain International Circuit;Fernando Alonso;9.6;1
+2023;Bahrain;Sakhir;Bahrain International Circuit;Max Verstappen;9.4;2
+2023;Bahrain;Sakhir;Bahrain International Circuit;Alex Albon;9;3
+2023;Bahrain;Sakhir;Bahrain International Circuit;Pierre Gasly;8.6;4
+2023;Bahrain;Sakhir;Bahrain International Circuit;Charles Leclerc;8.4;5
+2023;Bahrain;Sakhir;Bahrain International Circuit;Lance Stroll;8.4;6
+2023;Bahrain;Sakhir;Bahrain International Circuit;Sergio Perez;8;7
+2023;Bahrain;Sakhir;Bahrain International Circuit;Valtteri Bottas;7.8;8
+2023;Bahrain;Sakhir;Bahrain International Circuit;Logan Sargeant;7.6;9
+2023;Bahrain;Sakhir;Bahrain International Circuit;Lewis Hamilton;7.4;10
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;George Russell;10;1
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Lewis Hamilton;8.8;2
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Carlos Sainz;8.6;3
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Fernando Alonso;8.4;4
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Valtteri Bottas;8.2;5
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Kevin Magnussen;8;6
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Charles Lecrerc;7.6;7
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Sebastian Vettel;7.4;8
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Esteban Ocon;7.2;9
+2022;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Lando Norris;7;10
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Max Verstappen;9.6;1
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Fernando Alonso;9.4;2
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Lando Norris;9.2;3
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Pierre Gasly;8.4;4
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Lance Stroll;8;5
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Yuki Tsunoda;7.8;6
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Sergio Perez;7.4;7
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Charles Leclerc;7.2;8
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Carlos Sainz;7;9
+2023;Brazil;Sao Paulo;Autodromo Jose Carlos Pace;Lewis Hamilton;7;10
+2022;United Kingdom;Silverstone;Silverstone Circuit;Lewis Hamilton;9.2;1
+2022;United Kingdom;Silverstone;Silverstone Circuit;Carlos Sainz;9;2
+2022;United Kingdom;Silverstone;Silverstone Circuit;Mick Schumacher;9;3
+2022;United Kingdom;Silverstone;Silverstone Circuit;Charles Lecrerc;8.2;4
+2022;United Kingdom;Silverstone;Silverstone Circuit;Fernando Alonso;8.2;5
+2022;United Kingdom;Silverstone;Silverstone Circuit;Max Verstappen;7.8;6
+2022;United Kingdom;Silverstone;Silverstone Circuit;Sergio Perez;7.8;7
+2022;United Kingdom;Silverstone;Silverstone Circuit;Lando Norris;7.2;8
+2022;United Kingdom;Silverstone;Silverstone Circuit;Zhou Guanyu;7;9
+2022;United Kingdom;Silverstone;Silverstone Circuit;Nicholas Latifi;7;10
+2023;United Kingdom;Silverstone;Silverstone Circuit;Lando Norris;9.8;1
+2023;United Kingdom;Silverstone;Silverstone Circuit;Oscar Piastri;9.4;2
+2023;United Kingdom;Silverstone;Silverstone Circuit;Alex Albon;9.2;3
+2023;United Kingdom;Silverstone;Silverstone Circuit;Max Verstappen;9;4
+2023;United Kingdom;Silverstone;Silverstone Circuit;Logan Sargeant;7.6;5
+2023;United Kingdom;Silverstone;Silverstone Circuit;Lewis Hamilton;7.4;6
+2023;United Kingdom;Silverstone;Silverstone Circuit;George Russell;7;7
+2023;United Kingdom;Silverstone;Silverstone Circuit;Fernando Alonso;6.8;8
+2023;United Kingdom;Silverstone;Silverstone Circuit;Charles Leclerc;6.6;9
+2023;United Kingdom;Silverstone;Silverstone Circuit;Pierre Gasly;6.6;10
+2022;Singapore;Singapore;Marina Bay Street Circuit;Sergio Perez;9.4;1
+2022;Singapore;Singapore;Marina Bay Street Circuit;Lando Norris;9.2;2
+2022;Singapore;Singapore;Marina Bay Street Circuit;Charles Lecrerc;8.2;3
+2022;Singapore;Singapore;Marina Bay Street Circuit;Lance Stroll;8;4
+2022;Singapore;Singapore;Marina Bay Street Circuit;Fernando Alonso;7.6;5
+2022;Singapore;Singapore;Marina Bay Street Circuit;Daniel Ricciardo;7.4;6
+2022;Singapore;Singapore;Marina Bay Street Circuit;Pierre Gasly;7.4;7
+2022;Singapore;Singapore;Marina Bay Street Circuit;Sebastian Vettel;7.2;8
+2022;Singapore;Singapore;Marina Bay Street Circuit;Carlos Sainz;6.8;9
+2022;Singapore;Singapore;Marina Bay Street Circuit;Kevin Magnussen;6.4;10
+2023;Singapore;Singapore;Marina Bay Street Circuit;Carlos Sainz;10;1
+2023;Singapore;Singapore;Marina Bay Street Circuit;Lando Norris;9.4;2
+2023;Singapore;Singapore;Marina Bay Street Circuit;Liam Lawson;8.8;3
+2023;Singapore;Singapore;Marina Bay Street Circuit;Lewis Hamilton;8;4
+2023;Singapore;Singapore;Marina Bay Street Circuit;Oscar Piastri;7.8;5
+2023;Singapore;Singapore;Marina Bay Street Circuit;Pierre Gasly;7.8;6
+2023;Singapore;Singapore;Marina Bay Street Circuit;Kevin Magnussen;7.6;7
+2023;Singapore;Singapore;Marina Bay Street Circuit;Esteban Ocon;7.6;8
+2023;Singapore;Singapore;Marina Bay Street Circuit;George Russell;7.2;9
+2023;Singapore;Singapore;Marina Bay Street Circuit;Charles Leclerc;7;10
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Max Verstappen;10;1
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Alex Albon;8.8;2
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Fernando Alonso;8.6;3
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Sebastian Vettel;8.4;4
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;George Russell;8.2;5
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Esteban Ocon;8.2;6
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Pierre Gasly;8;7
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Carlos Sainz;7.8;8
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Sergio Perez;7.6;9
+2022;Belgium;Spa;Circuit de Spa-Francorchamps;Charles Lecrerc;6.6;10
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Max Verstappen;9.6;1
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Lewis Hamilton;8.6;2
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Charles Leclerc;8.4;3
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Yuki Tsunoda;8.2;4
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Oscar Piastri;8;5
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Pierre Gasly;7.6;6
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Esteban Ocon;7.6;7
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Lando Norris;7.4;8
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;Alex Albon;7.4;9
+2023;Belgium;Spa;Circuit de Spa-Francorchamps;George Russell;7.2;10
+2022;Austria;Spielberg;Red Bull Ring;Charles Lecrerc;9.6;1
+2022;Austria;Spielberg;Red Bull Ring;Mick Schumacher;9;2
+2022;Austria;Spielberg;Red Bull Ring;Max Verstappen;8.8;3
+2022;Austria;Spielberg;Red Bull Ring;Esteban Ocon;8.6;4
+2022;Austria;Spielberg;Red Bull Ring;Carlos Sainz;8.4;5
+2022;Austria;Spielberg;Red Bull Ring;Fernando Alonso;8.2;6
+2022;Austria;Spielberg;Red Bull Ring;Lewis Hamilton;7.8;7
+2022;Austria;Spielberg;Red Bull Ring;Kevin Magnussen;7.6;8
+2022;Austria;Spielberg;Red Bull Ring;Lando Norris;7.4;9
+2022;Austria;Spielberg;Red Bull Ring;George Russell;7;10
+2023;Austria;Spielberg;Red Bull Ring;Max Verstappen;9.8;1
+2023;Austria;Spielberg;Red Bull Ring;Lando Norris;9.4;2
+2023;Austria;Spielberg;Red Bull Ring;Alex Albon;8.4;3
+2023;Austria;Spielberg;Red Bull Ring;Charles Leclerc;8.2;4
+2023;Austria;Spielberg;Red Bull Ring;Carlos Sainz;8;5
+2023;Austria;Spielberg;Red Bull Ring;Nico Hulkenberg;7.8;6
+2023;Austria;Spielberg;Red Bull Ring;Fernando Alonso;7.8;7
+2023;Austria;Spielberg;Red Bull Ring;Pierre Gasly;7.4;8
+2023;Austria;Spielberg;Red Bull Ring;Logan Sargeant;7;9
+2023;Austria;Spielberg;Red Bull Ring;Lance Stroll;6.8;10
+2022;Japan;Suzuka;Suzuka International Racing Course;Max Verstappen;10;1
+2022;Japan;Suzuka;Suzuka International Racing Course;Esteban Ocon;9;2
+2022;Japan;Suzuka;Suzuka International Racing Course;Sebastian Vettel;8.6;3
+2022;Japan;Suzuka;Suzuka International Racing Course;Sergio Perez;8.4;4
+2022;Japan;Suzuka;Suzuka International Racing Course;Fernando Alonso;8;5
+2022;Japan;Suzuka;Suzuka International Racing Course;Charles Lecrerc;7.8;6
+2022;Japan;Suzuka;Suzuka International Racing Course;Nicholas Latifi;7.8;7
+2022;Japan;Suzuka;Suzuka International Racing Course;Lewis Hamilton;7.6;8
+2022;Japan;Suzuka;Suzuka International Racing Course;Lando Norris;7;9
+2022;Japan;Suzuka;Suzuka International Racing Course;George Russell;6.8;10
+2023;Japan;Suzuka;Suzuka International Racing Course;Max Verstappen;10;1
+2023;Japan;Suzuka;Suzuka International Racing Course;Lando Norris;9.4;2
+2023;Japan;Suzuka;Suzuka International Racing Course;Oscar Piastri;8.6;3
+2023;Japan;Suzuka;Suzuka International Racing Course;Charles Leclerc;8;4
+2023;Japan;Suzuka;Suzuka International Racing Course;Lewis Hamilton;7.6;5
+2023;Japan;Suzuka;Suzuka International Racing Course;Liam Lawson;7.6;6
+2023;Japan;Suzuka;Suzuka International Racing Course;Esteban Ocon;7.4;7
+2023;Japan;Suzuka;Suzuka International Racing Course;Pierre Gasly;7.4;8
+2023;Japan;Suzuka;Suzuka International Racing Course;Carlos Sainz;7.2;9
+2023;Japan;Suzuka;Suzuka International Racing Course;Yuki Tsunoda;7;10
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Max Verstappen;9.8;1
+2022;Netherlands;Zandvoort;Circuit Zandvoort;George Russell;8.8;2
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Fernando Alonso;8.6;3
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Lewis Hamilton;8.4;4
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Lando Norris;8.2;5
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Charles Lecrerc;8;6
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Esteban Ocon;7.8;7
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Lance Stroll;7.6;8
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Pierre Gasly;7;9
+2022;Netherlands;Zandvoort;Circuit Zandvoort;Alex Albon;7;10
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Max Verstappen;10;1
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Fernando Alonso;9.6;2
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Pierre Gasly;9.4;3
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Alex Albon;8.8;4
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Carlos Sainz;8.4;5
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Lando Norris;8.2;6
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Lewis Hamilton;8;7
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Yuki Tsunoda;7.4;8
+2023;Netherlands;Zandvoort;Circuit Zandvoort;Liam Lawson;7.2;9
+2023;Netherlands;Zandvoort;Circuit Zandvoort;George Russell;6.8;10
